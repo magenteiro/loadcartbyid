@@ -8,7 +8,7 @@
     "magento/module-quote": "101.2.*"
   },
   "license": [
-    "GNU General Public License (GPL)"
+    "GPL-3.0-or-later"
   ],
   "autoload": {
     "files": [
