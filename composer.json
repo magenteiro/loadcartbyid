@@ -1,0 +1,21 @@
+{
+  "name": "magenteiro/module-load-cart-by-id",
+  "version": "1.0.0",
+  "description": "Load a Magento cart from its masked cartId (generated in graphQL)",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*",
+    "magento/module-quote": "101.2.*"
+  },
+  "license": [
+    "GNU General Public License (GPL)"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Magenteiro\\LoadCartById\\": ""
+    }
+  }
+}
