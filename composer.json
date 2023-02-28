@@ -1,5 +1,5 @@
 {
-  "name": "magenteiro/module-load-cart-by-id",
+  "name": "magenteiro/loadcartbyid",
   "version": "1.0.0",
   "description": "Load a Magento cart from its masked cartId (generated in graphQL)",
   "type": "magento2-module",
